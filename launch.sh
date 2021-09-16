@@ -35,5 +35,5 @@ $SUDO /bin/cp ${TMP_FILE} ${TARGET_FILE}
 #Remove the temporary file
 /bin/rm ${TMP_FILE}
 
-#Launch Nudge
-/Applications/Utilities/Nudge.app/Contents/MacOS/Nudge
+#Launch Nudge in background so job isn't running forever
+/Applications/Utilities/Nudge.app/Contents/MacOS/Nudge &
