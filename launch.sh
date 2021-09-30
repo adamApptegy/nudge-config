@@ -7,8 +7,7 @@ if [ ! -f /Applications/Utilities/Nudge.app/Contents/MacOS/Nudge ]; then
 fi
 
 # Check if Nudge is currently running
-if pgrep -x "Nudge" > /dev/null
-then
+if pgrep -x "Nudge" >/dev/null; then
     echo "Nudge is currently running already"
     exit 1
 fi
