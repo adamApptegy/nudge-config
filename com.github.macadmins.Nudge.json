@@ -29,14 +29,14 @@
           "aboutUpdateURL": "https://support.apple.com/de-de/HT211896"
         }
       ],
-      "requiredInstallationDate": "2022-7-28T00:00:00Z",
-      "requiredMinimumOSVersion": "11.6.6",
+      "requiredInstallationDate": "2022-9-28T00:00:00Z",
+      "requiredMinimumOSVersion": "11.6.8",
       "targetedOSVersionsRule": "11"
 
     },
     {
-      "requiredInstallationDate": "2022-8-28T00:00:00Z",
-      "requiredMinimumOSVersion": "12.5",
+      "requiredInstallationDate": "2022-9-28T00:00:00Z",
+      "requiredMinimumOSVersion": "12.5.1",
       "targetedOSVersionsRule": "12"
     }
   ],
