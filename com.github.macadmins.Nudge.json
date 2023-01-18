@@ -4,7 +4,7 @@
       "us.zoom.xos"
     ],
     "asyncronousSoftwareUpdate": true,
-    "attemptToFetchMajorUpgrade": true,
+    "attemptToFetchMajorUpgrade": false,
     "enforceMinorUpdates": true,
     "aggressiveUserFullScreenExperience": false
   },
@@ -30,13 +30,13 @@
         }
       ],
       "requiredInstallationDate": "2024-9-28T00:00:00Z",
-      "requiredMinimumOSVersion": "11.6.8",
+      "requiredMinimumOSVersion": "11.7.2",
       "targetedOSVersionsRule": "11"
 
     },
     {
       "requiredInstallationDate": "2024-9-28T00:00:00Z",
-      "requiredMinimumOSVersion": "12.5.1",
+      "requiredMinimumOSVersion": "12.6.2",
       "targetedOSVersionsRule": "12"
     },
     {
