@@ -41,7 +41,7 @@
     },
     {
       "requiredInstallationDate": "2024-9-28T00:00:00Z",
-      "requiredMinimumOSVersion": "13.2",
+      "requiredMinimumOSVersion": "13.2.1",
       "targetedOSVersionsRule": "13"
     }
   ],
@@ -67,6 +67,8 @@
     "showDeferralCount": true,
     "simpleMode": false,
     "singleQuitButton": false,
+    "iconDarkPath": "/Library/ApptegyAssets/apptegy-logo.png",
+    "iconLightPath": "/Library/ApptegyAssets/apptegy-logo.png",
     "updateElements": [
       {
         "_language": "en",
