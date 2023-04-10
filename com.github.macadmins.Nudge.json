@@ -6,6 +6,7 @@
     "asyncronousSoftwareUpdate": true,
     "attemptToFetchMajorUpgrade": false,
     "enforceMinorUpdates": true,
+    "aggressiveUserExperience": false,
     "aggressiveUserFullScreenExperience": false
   },
   "osVersionRequirements": [
@@ -29,19 +30,19 @@
           "aboutUpdateURL": "https://support.apple.com/de-de/HT211896"
         }
       ],
-      "requiredInstallationDate": "2023-5-15T00:00:00Z",
-      "requiredMinimumOSVersion": "11.7.5",
+      "requiredInstallationDate": "2023-4-25T00:00:00Z",
+      "requiredMinimumOSVersion": "11.7.6",
       "targetedOSVersionsRule": "11"
 
     },
     {
-      "requiredInstallationDate": "2023-5-15T00:00:00Z",
-      "requiredMinimumOSVersion": "12.6.4",
+      "requiredInstallationDate": "2023-4-25T00:00:00Z",
+      "requiredMinimumOSVersion": "12.6.5",
       "targetedOSVersionsRule": "12"
     },
     {
-      "requiredInstallationDate": "2023-5-15T00:00:00Z",
-      "requiredMinimumOSVersion": "13.3",
+      "requiredInstallationDate": "2023-4-25T00:00:00Z",
+      "requiredMinimumOSVersion": "13.3.1",
       "targetedOSVersionsRule": "13"
     }
   ],
